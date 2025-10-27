@@ -1,0 +1,20 @@
+<svg width="1302" height="381" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Streaming</title>
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" stroke-width="99" id="🖥-Landing" fill="none" fill-rule="evenodd">
+   <g stroke="null" id="Artboard">
+    <g stroke="null" id="Streaming">
+     <rect stroke="null" id="Rectangle" x="49.5" y="49.5" width="336.99997" height="281"/>
+     <path stroke="#0C0310" d="m168.35539,231.39364c-27.41804,-22.86169 -27.41804,-59.92793 0,-82.79009" id="Path" stroke-width="2" stroke-linecap="round"/>
+     <path stroke="#0C0310" d="m128.63953,264.50832c-49.35252,-41.15245 -49.35252,-107.87169 0,-149.0232" id="Path" stroke-width="2" stroke-linecap="round"/>
+     <path stroke="#0C0310" d="m267.64429,148.18872c27.41776,22.86251 27.41776,59.92875 0,82.79045" id="Path" stroke-width="2" stroke-linecap="round"/>
+     <path stroke="#0C0310" d="m307.36114,114.73743c49.35224,41.15151 49.35224,107.87145 0,149.02273" id="Path" stroke-width="2" stroke-linecap="round"/>
+     <circle stroke="#0C0310" id="Oval" stroke-width="2" stroke-linecap="round" cx="217.99998" cy="190" r="8.73585"/>
+    </g>
+   </g>
+  </g>
+  <text transform="matrix(17.1403 0 0 11.0199 -8830.9 -1762.34)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_1" y="184.5" x="543" stroke-width="0" fill="#000000">SLB</text>
+ </g>
+</svg>
